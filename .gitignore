@@ -1,2 +1,6 @@
 dataset
 .ipynb_checkpoints
+atlantis/dataset
+atlantis/dataset_adk
+atlantis/dataset_binary
+*.DS_Store

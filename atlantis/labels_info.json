@@ -1,0 +1,107 @@
+[
+	{
+		"name": "breakwater",
+		"id": 3,
+		"color": [38, 38, 38]
+	},
+	{
+		"name": "canal",
+		"id": 7,
+		"color": [7, 7, 7]
+	},
+	{
+		"name": "dam",
+		"id": 12,
+		"color": [125, 209, 109]
+	},
+	{
+		"name": "flood",
+		"id": 17,
+		"color": [82, 8, 150]
+	},
+	{
+		"name": "glaciers",
+		"id": 18,
+		"color": [56, 86, 248]
+	},
+	{
+		"name": "hot_spring",
+		"id": 19,
+		"color": [23, 113, 200]
+	},
+	{
+		"name": "lake",
+		"id": 20,
+		"color": [32, 55, 235]
+	},
+	{
+		"name": "mangrove",
+		"id": 23,
+		"color": [254, 232, 244]
+	},
+	{
+		"name": "marsh",
+		"id": 24,
+		"color": [28, 192, 189]
+	},
+	{
+		"name": "pier",
+		"id": 29,
+		"color": [221, 88, 16]
+	},
+	{
+		"name": "puddle",
+		"id": 32,
+		"color": [92, 244, 86]
+	},
+	{
+		"name": "rapids",
+		"id": 33,
+		"color": [190, 154, 26]
+	},
+	{
+		"name": "reservoir",
+		"id": 34,
+		"color": [58, 83, 207]
+	},
+	{
+		"name": "river",
+		"id": 35,
+		"color": [160, 96, 224]
+	},
+	{
+		"name": "river_delta",
+		"id": 36,
+		"color": [138, 200, 187]
+	},
+	{
+		"name": "sea",
+		"id": 38,
+		"color": [80, 128, 128]
+	},
+	{
+		"name": "shoreline",
+		"id": 40,
+		"color": [254, 54, 89]
+	},
+	{
+		"name": "spillway",
+		"id": 44,
+		"color": [24, 139, 177]
+	},
+	{
+		"name": "swimming_pool",
+		"id": 45,
+		"color": [176, 0, 64]
+	},
+	{
+		"name": "waterfall",
+		"id": 55,
+		"color": [39, 24, 186]
+	},
+	{
+		"name": "wetland",
+		"id": 56,
+		"color": [84, 91, 147]
+	}
+]
