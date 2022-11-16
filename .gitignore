@@ -4,3 +4,7 @@ atlantis/dataset
 atlantis/dataset_adk
 atlantis/dataset_binary
 *.DS_Store
+model_weights/*.hdf5
+logs/fit/*
+best_model_weights/*.hdf5
+dataset_testing
