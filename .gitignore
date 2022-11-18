@@ -8,3 +8,5 @@ model_weights/*.hdf5
 logs/fit/*
 best_model_weights/*.hdf5
 dataset_testing
+river_segmented_hydrology
+river_segmented_hydrology_v2
